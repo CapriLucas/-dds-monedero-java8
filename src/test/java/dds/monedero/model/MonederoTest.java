@@ -54,6 +54,7 @@ public class MonederoTest {
 
     });
   }
+  /*
   @Test
   void PuedoHacerMasDeTresDepositosSiNoSonElMismoDia(){
     // Agrego a mano para simular la fecha
@@ -64,7 +65,7 @@ public class MonederoTest {
       cuenta.poner(1900);
     });
 
-  }
+  }*/
 
   @Test
   void ExtraerMasQueElSaldo() {
